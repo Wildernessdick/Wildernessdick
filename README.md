@@ -37,4 +37,4 @@ I've been learning to code since january 2021, about 2003-2005 i did some html. 
 
 ### Support Me
 
-<a href="https://www.buymeacoffee.com/wildernessdic"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<a href="https://www.buymeacoffee.com/wildernessdick"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
