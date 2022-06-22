@@ -11,7 +11,7 @@ I've been learning to code since january 2021, about 2003-2005 i did some html. 
 * 🧠  I'm learning c#, JavaScript, Sql and Black magic
 * ⚡  Life is too short to struggle with React;
 
-### Skills
+### Skills??
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
