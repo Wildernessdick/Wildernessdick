@@ -4,7 +4,7 @@ Hi 👋 My name is Simo Hämäläinen
 Information technology engineering student @ Savonia university of applied sciences
 -----------------------------------------------------------------------------------
 
-I've been learning to code since january 2021, about 2003-2005 i did some html. currently i just love to learn new thing day by day while playing hide and seek with ;
+I've been learning to code since january 2021, about 2003-2005 i did some html. currently i just love to learn new things day by day while playing hide and seek with ;
 
 * 🌍  I'm based in Finland
 * ✉️  You can contact me at [https://www.linkedin.com/in/simoeerikhamalainen/](mailto:https://www.linkedin.com/in/simoeerikhamalainen/)
