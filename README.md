@@ -34,6 +34,3 @@ I've been learning to code since January 2021, about 2003-2005 I did some HTML. 
 
 <a href="https://github.com/wildernessdick" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wildernessdick&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-### Support Me
-
-<a href="https://www.buymeacoffee.com/wildernessdic"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
