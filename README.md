@@ -1,4 +1,4 @@
-Hi 👋 My name is Simo Hämäläinen
+Hi 👋 My name is Simo
 ================================
 
 Information technology engineering student, Savonia University of Applied Sciences
