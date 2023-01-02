@@ -8,7 +8,7 @@ I've been learning to code since January 2021, about 2003-2005 I did some HTML. 
 
 * 🌍  I'm based in Finland
 * ✉️  You can contact me at [https://www.linkedin.com/in/simoeerikhamalainen/](mailto:https://www.linkedin.com/in/simoeerikhamalainen/)
-* 🧠  I'm learning C# day by day
+* 🧠  I'm learning day by day
 * ⚡  Playing hide and seek with ;
 
 ### Skills
