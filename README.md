@@ -7,7 +7,7 @@ Information technology engineering student, Savonia University of Applied Scienc
 I've been learning to code since January 2021, about 2003-2005 I did some HTML. Currently, I just love to learn new things day by day while playing hide and seek with ;
 
 * 🌍  I'm based in Finland
-* ✉️  You can contact me at [https://www.linkedin.com/in/simoeerikhamalainen/](mailto:https://www.linkedin.com/in/simoeerikhamalainen/)
+* ✉️  You can contact me at https://www.linkedin.com/in/simoeerikhamalainen/
 * 🧠  I'm learning day by day
 * ⚡  Playing hide and seek with ;
 
