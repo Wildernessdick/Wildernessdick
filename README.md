@@ -26,7 +26,7 @@ I am motivated by the journey of learning and the end result. I find it very rew
 </p>
 
 * 🌍  I'm based in Finland
-* ✉️  You can contact me at https://www.linkedin.com/in/simoeerikhamalainen/
+* ✉️  You can reach out to me on [LinkedIn](https://www.linkedin.com/in/simoeerikhamalainen/) if you'd like to connect or hire me ;).
 * 🧠  I'm learning day by day
 * ⚡  Playing hide and seek with ;
 
