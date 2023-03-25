@@ -1,10 +1,29 @@
-Hi 👋 My name is Simo
-================================
+# Hello, I'm Simo! 👋
 
-Information technology engineering student, Savonia University of Applied Sciences
------------------------------------------------------------------------------------
+## About Me
 
-I've been learning to code since January 2021, about 2003-2005 I did some HTML. Currently, I just love to learn new things day by day while playing hide and seek with ;
+I am an Information Technology Engineering student at Savonia University of Applied Sciences in Finland. I have been learning to code since January 2021 and have worked on some school projects as well as personal projects and development exercises. My skills include C#, HTML, CSS, JavaScript, APIs, and IoT, and I am always open to learning new things;
+
+## What Motivates Me
+
+I am motivated by the journey of learning and the end result. I find it very rewarding when I learn new tricks and techniques that I can apply to my projects.
+
+## Socials
+
+<p align="left">
+  <a href="https://discord.com/users/Hovari#3600" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" />
+  </a>
+  <a href="https://www.github.com/wildernessdick" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" />
+  </a>
+  <a href="https://www.linkedin.com/in/simoeerikhamalainen/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+  </a>
+  <a href="https://www.stackoverflow.com/users/15451695/simo-h%c3%a4m%c3%a4l%c3%a4inen" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" />
+  </a>
+</p>
 
 * 🌍  I'm based in Finland
 * ✉️  You can contact me at https://www.linkedin.com/in/simoeerikhamalainen/
@@ -22,9 +41,7 @@ I've been learning to code since January 2021, about 2003-2005 I did some HTML. 
 </p>
 
 
-### Socials
 
-<p align="left"> <a href="https://discord.com/users/Hovari#3600" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/wildernessdick" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/simoeerikhamalainen/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/15451695/simo-h%c3%a4m%c3%a4l%c3%a4inen" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
