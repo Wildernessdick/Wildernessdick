@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am an Information Technology Engineering student at Savonia University of Applied Sciences in Finland. I have been learning to code since January 2021 and have worked on some school projects as well as personal projects and development exercises. My skills include C#, HTML, CSS, JavaScript, APIs, and IoT, and I am always open to learning new things;
+I studiet Information Technology Engineering at Savonia University of Applied Sciences in Finland. I have been learning to code since January 2021 and have worked on some school projects as well as personal projects and development exercises. My skills include C#, HTML, CSS, JavaScript, APIs, and IoT, and I am always open to learning new things;
 
 ## What Motivates Me
 
@@ -26,8 +26,8 @@ I am motivated by the journey of learning and the end result. I find it very rew
 </p>
 
 * 🌍  I'm based in Finland
-* ✉️  You can reach out to me on [LinkedIn](https://www.linkedin.com/in/simoeerikhamalainen/) if you'd like to connect or hire me ;).
-* 🧠  I'm learning day by day
+* ✉️  You can reach out to me on [LinkedIn](https://www.linkedin.com/in/simoeerikhamalainen/) if you'd like to connect.
+* 🧠  I'm learning day by day, currently workin as data engineer
 * ⚡  Playing hide and seek with ;
 
 ### Skills
